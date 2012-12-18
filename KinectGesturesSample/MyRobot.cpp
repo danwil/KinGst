@@ -226,7 +226,7 @@ public:
 	{
 		myRobot.SetSafetyEnabled(true);
 		// Simple change on next line.
-		// 55555
+		// 55555-Exp
 		while (IsOperatorControl())
 		{
 			myRobot.ArcadeDrive(stick); // drive with arcade style (use right stick)
